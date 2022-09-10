@@ -1,0 +1,3 @@
+[submodule "clients/ouranos"]
+	path = clients/ouranos
+	url = https://github.com/SaajanM/ouranos.git
